@@ -1,5 +1,5 @@
 # 👋 Hello, Welcome to My GitHub Profile! 
-![Welcome Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F685250899549480361%2F&psig=AOvVaw3V9ip2W3FmpXB_5JhCoscE&ust=1729524181905000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJj31-GhnYkDFQAAAAAdAAAAABAE)
+![Welcome Banner](https://github.com/Atharvalearner/Atharvalearner/blob/main/luck%201.jpg?raw=true)
 
 ## 👨‍💻 About Me
 
