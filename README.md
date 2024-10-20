@@ -1,6 +1,6 @@
 # 👋 Hello, Welcome to My GitHub Profile! 
 
-![Welcome Banner]([https://example.com/banner.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bhmpics.com%2Fanime-stars.html&psig=AOvVaw06n6deaJRMNh3X7hxffRy1&ust=1729522930838000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjc4pmdnYkDFQAAAAAdAAAAABBQ)) <!-- Replace with a cool custom banner -->
+![Welcome Banner]([https://example.com/banner.png](https://i.pinimg.com/1200x/d1/7c/18/d17c18d7ec0725d1162411990213feeb.jpg)) <!-- Replace with a cool custom banner -->
 
 ## 👨‍💻 About Me
 
