@@ -8,7 +8,7 @@ Hey there! I'm **[Atharva Banchhode]**, a passionate **developer** who loves cra
 - 🌱 Currently mastering: **[JAVA, ReactJs, Android Studio, MySQL, Firebase, JDBC, Hibernate, SpringBoot, Javascript, Html, CSS]**.
 - 🔭 Actively building: **[Nakshatra-Exosky, SportNet, HouseHero, News-Spring, Travel-Itinerary, etc]**.
 - 💡 I’m happy to chat about: **[JAVA, ReactJs, Android Studio, MySQL, Firebase, JDBC, Hibernate, SpringBoot, Javascript, Html, CSS]**.
-- 📧 Reach me at: **[atharvabanchhode09@gmail.com]** or via [https://www.linkedin.com/in/atharva-banchhode-511895259]!
+- 📧 Reach me at: **[atharva0964@gmail.com]** or via [https://www.linkedin.com/in/atharva-banchhode-511895259]!
 
 ---
 
