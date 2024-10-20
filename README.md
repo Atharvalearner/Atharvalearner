@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/d788eb3d-dd53-4296-8976-e6c6dcf8e860)![image](https://github.com/user-attachments/assets/b3ee4e1d-7d43-45fa-9fb1-a6ae47557c8d)# 👋 Hello, Welcome to My GitHub Profile! 
 
-![Welcome Banner]([https://example.com/banner.png]([https://i.pinimg.com/1200x/d1/7c/18/d17c18d7ec0725d1162411990213feeb.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Danime%2Bbanner&psig=AOvVaw1oPU-YZa_qCita0Kqqq5ZR&ust=1729523930223000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjB5eegnYkDFQAAAAAdAAAAABAv))) <!-- Replace with a cool custom banner -->
+![Welcome Banner]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F685250899549480361%2F&psig=AOvVaw3V9ip2W3FmpXB_5JhCoscE&ust=1729524181905000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJj31-GhnYkDFQAAAAAdAAAAABAE]) <!-- Replace with a cool custom banner -->
 
 ## 👨‍💻 About Me
 
