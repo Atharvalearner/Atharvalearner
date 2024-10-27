@@ -24,7 +24,7 @@ Hey there! I'm **[Atharva Banchhode]**, a passionate **developer** who loves cra
 
 ## 📈 GitHub Stats at a Glance
 
-(![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharvalearner&show_icons=true&theme=dark))
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharvalearner&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharvalearner&layout=compact&theme=tokyonight)
 
 ---
