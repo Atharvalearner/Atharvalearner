@@ -1,5 +1,5 @@
 # 👋 Hello, Welcome! 
-!(https://github.com/Atharvalearner/Atharvalearner/blob/main/luck%201.jpg?raw=true)
+![Welcome Banner](https://github.com/Atharvalearner/Atharvalearner/blob/main/luck%201.jpg?raw=true)
 
 ## 👨‍💻 About Me
 Hey there! I'm **[Atharva Banchhode]**, a passionate **developer** who loves crafting innovative solutions and learning something new every day. I enjoy diving deep into technology and constantly evolving my skills. 🚀
