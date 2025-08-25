@@ -1,15 +1,12 @@
-# 👋 Hello, Welcome! 
+# 👋 Hello, there! 
+I'm **[Atharva Banchhode]**, a passionate **developer** who loves crafting innovative solutions and learning something new every day. I enjoy diving deep into technology and constantly evolving my skills. 🚀
 
-## 👨‍💻 About Me
-Hey there! I'm **[Atharva Banchhode]**, a passionate **developer** who loves crafting innovative solutions and learning something new every day. I enjoy diving deep into technology and constantly evolving my skills. 🚀
-
-- 🌱 Currently mastering: **[JAVA, ReactJs, Android Studio, MySQL, Firebase, JDBC, Hibernate, SpringBoot, Javascript, Html, CSS]**.
-- 💡 I’m happy to chat about: **[JAVA, ReactJs, Android Studio, MySQL, Firebase, JDBC, Hibernate, SpringBoot, Javascript, Html, CSS]**.
+- 🌱 Currently mastering: **[JAVA, SpringBoot, JDBC, Hibernate, Javascript, ReactJs, Android Studio, MySQL, Firebase, Jmeter, Selenium, Html, CSS]** & I’m happy to chat about it.
 - 📧 Reach me at: **[atharva0964@gmail.com]** or via [https://www.linkedin.com/in/atharva-banchhode-511895259]!
 ---
 
 ## 🔥 Guest Section: 
-👋 Hello there, guest! I’m thrilled to have you visiting my profile. Whether you're here for inspiration, collaboration, or just curiosity, take a moment to explore and feel free to reach out!
+👋 Hello there, Whether you're here for inspiration, collaboration, or just curiosity, take a moment to explore and feel free to reach out!
 
 ### 🌟 Things You Can Do:
 1. **Explore My Projects**: Check out my pinned repositories below or visit [my repositories](https://github.com/Atharvalearner) to see what I've been working on!
