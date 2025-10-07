@@ -1,7 +1,7 @@
 # 👋 Hello, there! 
 I'm **[Atharva Banchhode]**, a passionate **developer** who loves crafting innovative solutions and learning something new every day. I enjoy diving deep into technology and constantly evolving my skills. 🚀
 
-- 🌱 Currently mastering: **[JAVA, SpringBoot, JDBC, Hibernate, Javascript, ReactJs, Android Studio, MySQL, Firebase, Jmeter, Selenium, Html, CSS]** & I’m happy to chat about it.
+- 🌱 Currently mastering: **[JAVA, SpringBoot, JDBC, Hibernate, Javascript, ReactJs, Android Studio, MySQL, Firebase, Networking, Splunk, Wireshark, Nmap, Cisco Packet Tracer, Jmeter, Selenium, Html, CSS]** & I’m happy to chat about it.
 - 📧 Reach me at: **[atharva0964@gmail.com]** or via [https://www.linkedin.com/in/atharva-banchhode-511895259]!
 ---
 
