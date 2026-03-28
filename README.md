@@ -1,53 +1,125 @@
-# 👋 Hello, there! 
-I'm **[Atharva Banchhode]**, a passionate **developer** who loves crafting innovative solutions and learning something new every day. I enjoy diving deep into technology and constantly evolving my skills. 🚀
+<h1 align="center">Hi 👋, I'm Atharva Banchhode</h1>
 
-- 🌱 Currently mastering: **[JAVA, SpringBoot, JDBC, Hibernate, Javascript, ReactJs, Android Studio, MySQL, Firebase, Networking, Splunk, Wireshark, Nmap, Cisco Packet Tracer, Jmeter, Selenium, Html, CSS]** & I’m happy to chat about it.
-- 📧 Reach me at: **[atharva0964@gmail.com]** or via [https://www.linkedin.com/in/atharva-banchhode-511895259]!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Networking+Enthusiast;Always+Learning+New+Things+🚀" />
+</p>
+
+<h3 align="center">💻 Full Stack Developer | Java | Networking & Cyber-Security Enthusiast</h3>
+
 ---
 
-## 🔥 Guest Section: 
-👋 Hello there, Whether you're here for inspiration, collaboration, or just curiosity, take a moment to explore and feel free to reach out!
+## 🚀 About Me
+- 🔭 Working on **Full Stack & Networking Projects**
+- 🌱 Learning **System Design & Advanced Backend**
+- 🎯 Goal: **Crack top product/service-based companies**
+- ⚡ Strength: **Strong fundamentals + Practical implementation**
 
-### 🌟 Things You Can Do:
-1. **Explore My Projects**: Check out my pinned repositories below or visit [my repositories](https://github.com/Atharvalearner) to see what I've been working on!
-2. **Drop Me a Message**: Have a suggestion, question, or collaboration idea? ([https://github.com/username/repo/issues](https://www.linkedin.com/in/atharva-banchhode-511895259)), then let's chat!
-3. **Stay in the Loop**: Follow me for updates on my latest projects and contributions!
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### ⚙️ Frameworks & Tools
+<p>
+  <img src="https://img.shields.io/badge/SpringBoot-brightgreen?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+### 🌐 Networking & Tools
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=gnometerminal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CiscoPacketTracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Splunk-black?style=for-the-badge&logo=splunk&logoColor=white"/>
+</p>
+
+### 🧪 Testing & Performance
+<p>
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 📚 Library Management System
+- 🔹 Built using **Java + MySQL**
+- 🔹 Features: Book issue/return, fine calculation, user management  
+- 🔹 Focus: **OOP + Database integration**
+🔗 https://github.com/Atharvalearner
+
+---
+
+### 🌐 Network Packet Analyzer
+- 🔹 Tools: **Wireshark + Networking Concepts**
+- 🔹 Analyzed packets, protocols, and traffic patterns  
+- 🔹 Focus: **TCP/IP, troubleshooting, security basics**
+🔗 https://github.com/Atharvalearner
+
+---
+
+### 🛒 Full Stack Web App
+- 🔹 Tech: **React + Spring Boot + MySQL**
+- 🔹 Features: Authentication, CRUD operations  
+- 🔹 Focus: **API integration + frontend-backend connection**
+🔗 https://github.com/Atharvalearner
+
+---
+
+### 📱 Android App
+- 🔹 Built using **Android Studio + Firebase**
+- 🔹 Features: Real-time data, authentication  
+- 🔹 Focus: **Mobile app development**
+🔗 https://github.com/Atharvalearner
 
 ---
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharvalearner&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharvalearner&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Atharvalearner&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharvalearner&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-## ⚙️ Tech Stack & Tools
-Here’s my current toolbelt 🛠️ for building awesome stuff:
-- **Languages**:  
-  ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) 
-  ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white) 
-  ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)
-
-- **Frameworks & Tools**:  
-  ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white) 
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white) 
-  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?style=flat-square&logo=spring&logoColor=white) 
-  ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-
-- **Databases**:  
-  ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white) 
-  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+## 🤝 Connect With Me
+<p>
+  <a href="mailto:atharva0964@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/atharva-banchhode-511895259">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🤝 Let's Connect!
-Feel free to reach out, collaborate, or just say hi! 😊
-- 🌐 **[LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/atharva-banchhode-511895259))** — Connect with me professionally.
+## 👀 Profile Views
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Atharvalearner&color=blue&style=for-the-badge"/>
+</p>
+
 ---
 
-## 👀 Visitor Counter
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=for-the-badge)
+## 💡 Quote
+> "Consistency beats talent when talent doesn’t work hard." 🚀
+
 ---
 
-✨ **Thanks for stopping by! Feel free to explore, and don't hesitate to reach out. Have a fantastic day!** ✨
+⭐ **Thanks for visiting my profile! Let's build something amazing together.**
