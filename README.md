@@ -56,40 +56,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 📚 Library Management System
-- 🔹 Built using **Java + MySQL**
-- 🔹 Features: Book issue/return, fine calculation, user management  
-- 🔹 Focus: **OOP + Database integration**
-🔗 https://github.com/Atharvalearner
-
----
-
-### 🌐 Network Packet Analyzer
-- 🔹 Tools: **Wireshark + Networking Concepts**
-- 🔹 Analyzed packets, protocols, and traffic patterns  
-- 🔹 Focus: **TCP/IP, troubleshooting, security basics**
-🔗 https://github.com/Atharvalearner
-
----
-
-### 🛒 Full Stack Web App
-- 🔹 Tech: **React + Spring Boot + MySQL**
-- 🔹 Features: Authentication, CRUD operations  
-- 🔹 Focus: **API integration + frontend-backend connection**
-🔗 https://github.com/Atharvalearner
-
----
-
-### 📱 Android App
-- 🔹 Built using **Android Studio + Firebase**
-- 🔹 Features: Real-time data, authentication  
-- 🔹 Focus: **Mobile app development**
-🔗 https://github.com/Atharvalearner
-
----
-
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Atharvalearner&show_icons=true&theme=tokyonight"/>
@@ -114,12 +80,6 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=Atharvalearner&color=blue&style=for-the-badge"/>
 </p>
-
 ---
 
-## 💡 Quote
-> "Consistency beats talent when talent doesn’t work hard." 🚀
-
----
-
-⭐ **Thanks for visiting my profile! Let's build something amazing together.**
+**Thanks for visiting my profile! Let's build something amazing together.**
